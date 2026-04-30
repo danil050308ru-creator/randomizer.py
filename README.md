@@ -16,6 +16,6 @@ markdown
 ---
 ## Как запустить
 ```bash
-git clone https://github.com/danil050308ru-creator/randomizer.py/blob/main/asdasd.py
+git clone https://github.com/danil050308ru-creator/randomizer.py/tree/main
 cd main
 python asdasd.py
