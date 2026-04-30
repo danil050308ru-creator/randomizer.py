@@ -1,7 +1,7 @@
 markdown
 # Random Task Generator
 **Автор:** [Данил Маслов]  
-**Вариант:** №1 Random Task Generator  
+**Вариант:** Random Task Generator  
 **Дата сдачи:** [30.04.2026]
 ---
 ## Описание программы
