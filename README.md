@@ -17,3 +17,8 @@
 git clone https://github.com/danil050308ru-creator/randomizer.py.git
 cd randomizer.py
 python main.py
+# Исключить скомпилированные файлы Python
+*.pyc
+__pycache__/
+# Исключить сохранённые истории задач
+task_history.json
